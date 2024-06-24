@@ -6,6 +6,7 @@
 2. Kvantum
 3. autocpu-freaq (Battery Optimization)
 4. PlasmaVantage (KDE Widget)
+	- Set Up LenovoLigionLinux
 5. ZSH
 6. NerdFonts (JetbrainsMono)
 7. Starship
